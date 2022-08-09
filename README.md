@@ -17,3 +17,4 @@ Data was taken from the World Happiness Report - https://worldhappiness.report/e
 * `data_cleaning_exploration.ipynb` is the Jupyter Notebook we used to clean and perform initial data exploration
 * `cleaned_happiness_2021.csv` is the output of the cleaning process that removes countries with null values in columns relevant to our study, limits data to 2021, and adds latitude and longitude
 * `Final_Analysis.ipynb` contains our final analysis of the dataset
+* `maps` directory contains screenshots of the maps used in our analysis
